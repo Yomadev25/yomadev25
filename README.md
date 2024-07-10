@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhumintra Chantanasevi</h1>
 <h3 align="center">A junior Game & Unity developer</h3>
 
-- 🔭 I’m currently working at **At Ease Asia.co ltd**
+- 🔭 I’m currently working at **Debuz**
 
 - 🌱 I’m currently learning **React.js, ASP.Net**
 
