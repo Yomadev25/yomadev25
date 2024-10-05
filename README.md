@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, ASP.Net**
 
-- 👨‍💻 All of my projects are available at [https://bhumintra.great-site.net/portfolio/?i=1](https://bhumintra.great-site.net/portfolio/?i=1)
+- 👨‍💻 All of my projects are available at [Portfolio](https://yomadev25.github.io/portfolio/)
 
 - 📫 How to reach me **yoma.gamedev@gmail.com**
 
